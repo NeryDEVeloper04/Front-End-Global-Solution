@@ -1,0 +1,1 @@
+# Front-End-Global-Solution

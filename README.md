@@ -1,1 +1,11 @@
 # Front-End-Global-Solution
+
+Arthur M Nery RM569088 
+        
+Mariana Bruzadim — RM568864
+        
+Donizetti Batista — RM569576
+        
+Davi Gualberto — RM569825
+        
+Rhuan Camargo — RM568967
